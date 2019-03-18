@@ -1,4 +1,4 @@
-package com.codinginflow.bottomnavigationviewexample;
+package com.codinginflow.Fitnesiakii;
 
 import org.junit.Test;
 

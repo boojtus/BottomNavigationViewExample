@@ -1,4 +1,4 @@
-package com.codinginflow.bottomnavigationviewexample;
+package com.codinginflow.Fitnesiakii;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,12 +7,13 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.codinginflow.Fitnesiakii.R;
 
-public class FavoritesFragment extends Fragment {
+public class WyzwaniaFragment extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_favorites, container, false);
+        return inflater.inflate(R.layout.fragment_trening, container, false);
     }
 }
