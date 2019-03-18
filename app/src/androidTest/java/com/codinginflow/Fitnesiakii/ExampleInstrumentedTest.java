@@ -1,4 +1,4 @@
-package com.codinginflow.bottomnavigationviewexample;
+package com.codinginflow.Fitnesiakii;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.codinginflow.bottomnavigationviewexample", appContext.getPackageName());
+        assertEquals("com.codinginflow.Fitnesiakii", appContext.getPackageName());
     }
 }

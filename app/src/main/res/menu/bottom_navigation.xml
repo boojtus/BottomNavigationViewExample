@@ -2,18 +2,22 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/nav_home"
+        android:id="@+id/nav_trening"
         android:icon="@drawable/ic_home_black_24dp"
-        android:title="Home" />
+        android:title="Trening" />
 
     <item
-        android:id="@+id/nav_favorites"
+        android:id="@+id/nav_data"
         android:icon="@drawable/ic_favorite_black_24dp"
-        android:title="Favorites" />
+        android:title="Baza ćwiczeń" />
 
     <item
-        android:id="@+id/nav_search"
+        android:id="@+id/nav_archiwum"
         android:icon="@drawable/ic_search_black_24dp"
-        android:title="Search" />
+        android:title="Archiwum" />
+    <item
+        android:id="@+id/nav_wyzwania"
+        android:icon="@drawable/ic_check_circle_black_24dp"
+        android:title="Wyzwania" />
 
 </menu>
